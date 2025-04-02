@@ -8,3 +8,13 @@
 | **Básico**      | Java, Python, HTML5         | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | **Aprendiendo** | Godot, Django, HTML5 Avanzado      | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![HTML5](https://img.shields.io/badge/HTML5-Expert-FF5733?style=for-the-badge&logo=html5) |
 | **Futuro**      |  React, Pandas        |  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+
+## 🎮 Proyecto en Desarrollo: MMO Life Proyect
+
+```diff
++ Estado: EN DESARROLLO ACTIVO
+! Motor Principal: Godot 4.4 + GDScript
+# Features Destacadas:
+- 🌍 Mundo persistente MMO
+- ⚔️ Sistema de Clans y PvP
+- 🔥 Mecánicas de Survival realistas
