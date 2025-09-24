@@ -8,14 +8,3 @@
 | **Aprendiendo** |![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |
 | **Futuro**      |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
 
-
-
-## 🎮 Proyecto en Desarrollo: MMO Life Proyect
-
-```diff
-+ Estado: EN DESARROLLO ACTIVO
-! Motor Principal: Godot 4.4 + GDScript
-# Features Destacadas:
-- 🌍 Mundo persistente MMO
-- ⚔️ Sistema de Clans y PvP
-- 🔥 Mecánicas de Survival realistas
