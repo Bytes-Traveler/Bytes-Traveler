@@ -1,6 +1,10 @@
 # ¡Hola, soy Dariel Sartorio! 👾 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&pause=800&color=FF00F7&width=435&lines=Desarrollador+Junior+%F0%9F%91%BE;Game+Dev+%F0%9F%8E%AE;Web+Dev+%F0%9F%92%BB)
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&pause=800&color=FF00F7&width=435&lines=Desarrollador+Junior+%F0%9F%91%BE;Game+Dev+%F0%9F%8E%AE;Web+Dev+%F0%9F%92%BB" 
+  alt="Typing SVG" 
+/>
+
 
 | **Nivel**       | **Lenguajes/Herramientas**  |                                       
 |-----------------|-----------------------------|
