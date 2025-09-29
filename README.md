@@ -3,10 +3,10 @@
 # ¡Hola, soy Dariel Sartorio! 👾 
 
 
-  <img src="./assets/python.gif" alt="Python" width="100"/>
-  <img src="./assets/react.gif" alt="React" width="100"/>
-  <img src="./assets/github.gif" alt="Github" width="100"/>
-  <img src="./assets/vscode.gif" alt="Vscode" width="100"/>
+  <img src="./assets/python.gif" alt="Python" width="80"/>
+  <img src="./assets/react.gif" alt="React" width="80"/>
+  <img src="./assets/github.gif" alt="Github" width="80"/>
+  <img src="./assets/vscode.gif" alt="Vscode" width="80"/>
 
 
 
