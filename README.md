@@ -14,7 +14,7 @@
 
 
 
-![Fade Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&lines=Desarrollador+Junior+%F0%9F%91%BE;Game+Dev+%F0%9F%8E%AE;Web+Dev+%F0%9F%92%BB)
+![Fade Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&lines=Desarrollador+Junior+%F0%9F%91%BE;Web+Dev+%F0%9F%92%BB)
 
 
 
