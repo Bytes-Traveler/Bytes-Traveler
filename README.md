@@ -45,7 +45,7 @@
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bytes-traveler-4aa315397) 
 
 [![Email](https://img.shields.io/badge/Email-bytestraveler@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bytestraveler@gmail.com)
 
